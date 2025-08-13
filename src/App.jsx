@@ -1,6 +1,6 @@
 import Header from "./components/Header"
 import Entry from "./components/Entry"
-import data from "./data"
+import data from "../data"
 
 const entryElements = data.map((entry) => {
     return (
